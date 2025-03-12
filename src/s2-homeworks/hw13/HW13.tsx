@@ -14,6 +14,7 @@ import errorUnknown from './images/error.svg'
 * 3 - сделать стили в соответствии с дизайном
 * */
 
+
 const HW13 = () => {
     const [code, setCode] = useState('')
     const [text, setText] = useState('')
